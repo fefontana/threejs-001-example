@@ -7,22 +7,31 @@ Objetivo: estudiar los componentes minimos que se necesitan para crear un animac
 
 Actividad de clase:
 
-Recuerde trabajar colaborativamente on sus compañeros. Primero lea la siguiente consina y trate de realizarla por su cuenta. Consulte al docente si no dispone alguno de los recursos.
+Trabaje colaborativamente con sus compañeros.
 
-Paso a paso:
+Primero lea la siguiente consina y trate de realizarla por su cuenta.
 
-Crear un nuevo proyecto en VSCode
-Ponerle como nombre "Proy-001"
-Crear un archivo nuevo y nombrarlo "index.html"
-Copiar el codigo fuente del index.html provisto en el repositorio github indicado por el docente
-Asegurarse de guardar los cambios y tener el entorno configurado
+Consulte al docente si no dispone alguno de los recursos.
+
+
+Realizar el siguiente Paso a paso:
+
+Teniendo el presente proyecto minimo de ThreeJS descomprimido y abierto en VSCode
+
 Ejecutar index.html con live server (si es necesarios instalar extension live server en VSCode)
+
 Visualizar la salida en el navegador (debe ser similar a la captura ejemplificativa provista en el repositorio)
+
 Vuelva al codigo index.html y lea la seccion de codigo javascript embebido
+
 Reconozca los componentes principales que se declaran con const
+
 Observe que hay una funcion de animación parametrizada con valores de rotación
+
 Modifique un valor 0.01 a por ejemplo 0.03
+
 Guarde el cambio y advierta como impacta en la renderización
+
 Si cerró la pagina web donde se renderiza la salida de este codigo deberá ejecutarla nuevamente. Acostumbre a dejarala abieta e intercambiar ventana para poder trabajar mas eficazmente con las herramientas informaticas.
 Muestre su trabajo al grupo y docente
 
